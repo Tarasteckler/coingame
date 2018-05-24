@@ -1,0 +1,12 @@
+#canvasSpace{
+    width: 50%;
+    height: 500px;
+    margin: auto;
+    border: double;
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+    font-family: Athelas, serif;
+}
